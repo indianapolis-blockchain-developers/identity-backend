@@ -1,0 +1,9 @@
+venv
+__pycache__/
+.pytest_cache/
+pip-log.txt
+.env
+
+.DS_Store
+.vscode
+*.swp
